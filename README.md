@@ -1,6 +1,4 @@
-# Muzaffar Mirzaev
-
-### Full-stack Developer at Top Core System Co. Ltd.
+Hi there 👋 I am Muzaffar, Full-stack Developer at Top Core System Co. Ltd.
 
 - 🚀 Passionate full-stack developer with solid hands-on experience in building modern web applications.
 - 🎯 Adaptable, proactive, and always eager to learn and explore new technologies.
