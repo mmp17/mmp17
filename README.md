@@ -1,10 +1,10 @@
 Hi there 👋 I am Muzaffar, Full-stack Developer
 
-- 🧠 Senior Web Developer @ [Top Core System](https://topcore.co.kr/)
+- 👨‍💻 Web Engineer @ [Top Core System Co. Ltd.](https://topcore.co.kr/)
 - 🏭 Building Digital Twin, CBT, AI Vision, 3D Simulation & XR Platforms
 - 🛠 Java Script, React, Next.js, Nest.js, Python, FastAPI, AI + Robotics Integration
 - 🇰🇷 Based in Korea | 🇺🇿 Originally from Uzbekistan
 
 📫 Contact me via mirzaevmuzaffar[at]gmail.com
 🎙️ Check out my [podcast series](https://www.youtube.com/@mirzaev_muzaffar)
-💼 view my [resume](http://www.mirzaevmuzaffar.uz/JosephResume.pdf).
+💼 view my [resume](https://gist.github.com/mmp17/c9adde8a3e1d613b1127b6059d8938c6).
