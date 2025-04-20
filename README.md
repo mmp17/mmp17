@@ -1,8 +1,10 @@
-Hi there 👋 I am Muzaffar, Full-stack Developer at Top Core System Co. Ltd.
+Hi there 👋 I am Muzaffar, Full-stack Developer
 
-- 🚀 Passionate full-stack developer with solid hands-on experience in building modern web applications.
-- 🎯 Adaptable, proactive, and always eager to learn and explore new technologies.
-- 🎙️ Check out my [podcast series](https://www.youtube.com/@mirzaev_muzaffar) and view my [resume](http://www.mirzaevmuzaffar.uz/JosephResume.pdf).
-- 💼 Currently contributing to CBT, AI and digital transformation projects at [Top Core System](https://topcore.co.kr/).
+- 🧠 Senior Web Developer @ [Top Core System](https://topcore.co.kr/)
+- 🏭 Building Digital Twin, CBT, AI Vision, 3D Simulation & XR Platforms
+- 🛠 Java Script, React, Next.js, Nest.js, Python, FastAPI, AI + Robotics Integration
+- 🇰🇷 Based in Korea | 🇺🇿 Originally from Uzbekistan
 
-📫 You can reach out to me via mirzaevmuzaffar[at]gmail.com
+📫 Contact me via mirzaevmuzaffar[at]gmail.com
+🎙️ Check out my [podcast series](https://www.youtube.com/@mirzaev_muzaffar)
+💼 view my [resume](http://www.mirzaevmuzaffar.uz/JosephResume.pdf).
